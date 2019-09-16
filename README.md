@@ -1,1 +1,1 @@
-# node email list
+# mailchimp email list
